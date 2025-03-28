@@ -1,0 +1,1 @@
+export function Card({ children }: any) { return <div className='border rounded'>{children}</div>; } export function CardContent({ children }: any) { return <div>{children}</div>; }
